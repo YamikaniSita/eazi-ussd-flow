@@ -70,7 +70,7 @@ To use USSD Flow, you need to create a JSON file that defines your USSD applicat
 Saving the file as .json file and will be used as the knowledge base of your app.
 ```
 import inference_engine
-engine = inference_engine.InferenceEngine(knowledge_base='soya.json')
+engine = inference_engine.InferenceEngine(knowledge_base='json_file_with_flow.json')
 out = engine.start_inference_session()
 ```
 To instatiate the module. Follow the cli.py example for guide.
