@@ -1,0 +1,241 @@
+{
+    "1": {
+        "title": "Sankhani mbali yomwe mukufuna ulangizi", 
+        "node_type": "decision",
+        "topics": {
+            "1": {
+                "title": "Kusankha malo olima soya",  
+                "node_type": "leaf",
+                "content": "Soya amachita bwino mmalo ambiri omwe chimanga chimachitanso bwino. Pewani kubzala soya pa malo monga awa \n 1. Malo anchenga, soya amachita bwino pa nthaka yolemela. \n 2. Padambo \n 3. Pa malo pa mitengo yambiri pomwe pali nthunzi."
+            }, 
+            "2": {
+                "title": "Kukonza malo olima soya",
+                "node_type": "leaf", 
+                "content": "Mutha kulima Soya pa malo a mizele kapena popanda mizele (flat). Pasakhalenso udzu"
+            }, 
+            "3": {
+                "title": "Malangizo a mbewu",
+                "node_type": "decision",
+                "topics": {
+                    "1": {
+                        "title": "Kusankha mbewu zoyenela m'dera lanu",
+                        "node_type": "decision",
+                        "topics": {
+                            "1": {
+                                "title": "Langizo ili limatengelo Agro-Ecology la Boma lanu kuti lipeleke mbewu zoyanja m'dera lanu. ",
+                                "node_type": "decision",
+                                "topics": {
+                                    "1": {
+                                        "title": "Pitilizani",
+                                        "node_type":"leaf",
+                                        "content": "Feature in development"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "2": {
+                         "title": "Kapezedwe ka Mbewu",
+                         "node_type": "leaf",
+                         "content": "Mbewu yoyenela ikuyenela kugulidwa mmalo ololedwa ndi adindo, ngati ili yosunga isasungidwe kupitilila miyezi 12 (chaka chimodzi). Onesetsaninso kuti. \n 1.Isakhale yosweka. \n 2. Yophatikiza ndi ina uya mtundu wina. \n3. Yofinyika olo kunyonyoloka"
+                    }, 
+                    "4": {
+                        "title": "Kugwilisa ntchito mankhwala a mbewu",
+                        "node_type": "decision",
+                        "topics": {
+                            "1": {
+                                "title": "Koyamba kulima Soya pa Dzaka zitatu zapita",
+                                "node_type": "leaf",
+                                "content": "Gwilisani ntchito mankhwala a Rhibotis kuti muonjezele Nitrogen pa munda wanu. Mankhwala wa amapangidwa ku Chitedze ku Lilongwe kapena Bvumbwe ku Thyolo. \n Satilani malangizo alembedwe pa packet, onesesani kuti mbewu yo mwaizala pasanathe maola 24."
+                                }, 
+                            "2": {
+                                "title": "Sikoyamba kulima soya",
+                                "node_type": "leaf",
+                                "content": "Mutha osagwilisa ntchito mankhwala wa poti soya amatha kupanga mankhwala wa payekha akabzalidwa."
+                            }   
+                        } 
+                    }
+                }
+            }, 
+            "4": {
+                "title": "Kubzala",
+                "node_type": "decision",
+                "topics": {
+                    "1": {
+                        "title": "Nthawi yoyenela kubzala",
+                        "node_type": "decision",
+                        "topics": {
+                            "1": {
+                                "title": "Nthawi yoyenela kubzala",
+                                "node_type":"decision",
+                                "topics": {
+                                    "1": {
+                                        "title": "Langizo ili limatengela ngati a zanyengo alengeza kuti nyengo ya mlimo yayamba, ngati izi zili chonchi DigiFarm imawelengela mvula yomwe yagwa mudera lanu komanso kutaika kwa madzi (Effective cululative rainfall). \n 1. Pitlizani ",
+                                        "node_type": "leaf",
+                                        "content": "Simuli olangizidwa kubzala nthawi ino, poti nyengo ya mlimo siinalengezedwe kapena mvula siinagwe yokwanila mdera lanu"
+                                    }
+                                }
+                            }
+                        }
+                        
+                    },
+                    "2": {
+                        "title": "Katalikisidwe koyenela kambewu",
+                        "node_type": "decision",
+                        "topics": {
+                            "1": {
+                                "title": "Kulima Soya Payekha",
+                                "node_type": "decision",
+                                "topics": {
+                                    "1": {
+                                        "title": "Pobzala pa mzere",
+                                        "node_type": "leaf",
+                                        "content": "Bzalani soya potalikisa pa mlingo wa 30CM (rula mmozi) ndi kubzala mmali za nzere ziwiri potalikisa ndi ma sentimita atatu(3CM). \n Maenje okuya ma sentimita awiri ndi half (2.5cm)."
+                                    },
+                                    "2": {
+                                        "title": "Kubzala popanda midzele",
+                                        "node_type": "leaf",
+                                        "content": "Bzalani Soya potalikisa ndi ma sentimita 45 (rula ndi half), kutalikisa malo obzala ndi ma sentimita 5."
+                                    }
+                                }
+                            }, 
+                            "2": {
+                                "title": "Kulima mophatikiza",
+                                "node_type": "decision",
+                                "topics": {
+                                    "1": {
+                                        "title": "Kuphatikiza ndi Chimanga",
+                                        "node_type": "leaf",
+                                        "content": "Kuti Soya achite bwino, amafunika kutalikidwa ndi nthunzi choncho abzalidwe motalikila Chimanga olo mapili. \n 1. Mutha kuzala soya malo atatu kapena folo kenako chimanga malo atatunso olo folo. \n 2. Kubzala Soya pakati pa chimanga, mukatele chimanga bzalani potalikisa ndi 90 sentimita."
+                                    },
+                                    "2": {
+                                        "title": "Kulima ndi nandolo",
+                                        "content": "Akatswili a ulimi amalimbikitsa kulima soya ndi nandolo, izi nchifukwa nandolo amakula mochedwa ndiye sapikisana ndi Soya pokula. "
+                                    }
+                                }
+                            }
+                        }
+                    }, 
+                    "3": {
+                        "title": "Mlingo wa mbewu ofunika",
+                        "node_type": "leaf",
+                        "content": "Soya kuti akwanile munda wa eka imodzi pamafunika ma kilogilamu pakati pa 80 ndi 100 for mbewu zazilulu, mbewu monga Tikolole zomwe zimakhala zazing'ono zimafunika zokwana 60 kupita 80 kilogilamu."
+                    }
+                }
+                
+            }, 
+            "5": {
+                "title": "Kugwilisa Ntchito Feteleza",
+                "node_type": "leaf",
+                "content": "Soya pa malo ambiri m'dziko muno amapanga yekha mchere wa nitrogen omwe ndi ofunika pokula, koma amafunika mchere wa phosphorous choncho feteleza amafunika. Mufunika kuthila feteleza wa 23:21:0 +4S pobzala kapena masabata awiri mutabzala, yesesani kuthila fetelezayu munthawi yolangizidwa kuti agwile ntchito."
+            }, 
+            "6": {
+                "title": "Kusamala udzu",
+                "node_type": "decision",
+                "topics": {
+                    "1": {
+                        "title": "Kupalila kwa Khasu",
+                        "node_type": "leaf",
+                        "content": "Palilani Soya pakangotha masabata awiri mutabzala. Zapalileni pomwe udzu wina wamela. Onesesani kuti popalila, nthaka isakhale yonyowa poti izi zimaononga Soya." 
+                    }, 
+                    "2": {
+                        "title": "Kugwilisa ntchito Mankhwala",
+                        "node_type": "leaf",
+                        "content": "Akagwilisidwa ntchito moyenela mankhwala othana ndi udzu ndioyenela, onesesani kuti mankhwalawo amathana ndi udzu wa mu dera lanu izi mungaziwe powelenga paketi ya mankhwala."
+                    },
+                    "3": {
+                        "title": "Njira zina.",
+                        "node_type": "leaf",
+                        "content": "Njira zina zothandiza kuthana ndi udzi nazi: \n 1. Kubzala mwachangu, izi zimathandiza kuchepesa mpikisano ndi udzu. \n Kuchosa udzu mmunda ngakhale nthawi yomwe mmunda mwakolola maka udzu omwe sunapange nthanga."
+                    }
+                }
+            }, 
+            "7": {
+                "title": "Matenda ndi zilombo",
+                "node_type": "decision",
+                "topics": {
+                    "1": {
+                        "title": "Zilombo", 
+                        "node_type":"decision",
+                        "topics": {
+                            "1": {
+                                "title": "Ziwala",
+                                "node_type": "leaf",
+                                "content": "Zilombo izi zimakhuza soya panthawi yopanga masamba ndikudya masamba akadali obiliwila. Izi zimaononga kupanga zokudya kwa mbewu ya soya."
+                            },
+                            "2": {
+                                "title": "Chiswe",
+                                "node_type": "decision",
+                                "topics": {
+                                    "1": {
+                                        "title": "Zizindikilo",
+                                        "node_type": "leaf",
+                                        "content": "Chiswe chimagwila soya pa nthawi iliyonse, chiswe chimagwila kwambiri mbewu zomwe zikusowa madzi kapena timichere ndi mmalo otentha. Zizindikilo nazi. \n 1. Kuuma kwa mizu ndi ntengo. \n 2. Mphanga mkati mwa nthambi."
+                                    },
+                                    "2": {
+                                        "title": "Kuthana nazo",
+                                        "node_type": "leaf",
+                                        "content": "Pangani izi kuti mupewe ndi kuthana ndi chiswe. \n 1. Kupalila udzu mwachangu. \n 2. Kuchosa zinyalala pa munda. \n Kubzala pa munda mbewu mwakasinthasintha."
+                                    }
+                                }
+                            }, 
+                            "3": {
+                                "title": "Mbozi",
+                                "node_type":"decision",
+                                "topics": {
+                                    "1": {
+                                        "title": "Dziwani zambiri",
+                                        "node_type": "leaf",
+                                        "content": "Izi ndi tizilombo tomwe timaononga, izi zimata kuononga mbewu yanu ya soya."
+                                    },
+                                    "2": {
+                                        "title": "Kuthana nazo",
+                                        "node_type": "leaf",
+                                        "content": "Ikani mankhwala a Cypermethlin mmunda wanu posatila malangizo ali pa paketi ya mankhwala wa."
+                                    }
+
+                                }
+                            }
+                        }
+                    }, 
+                    "3": {
+                        "title": "Matenda",
+                        "node_type": "leaf",
+                        "content": "loading"
+                    }
+                }
+            }, 
+            "8": {
+                "title": "Kukolola ndi kusamala mbewu",
+                "node_type": "decision",
+                "topics": {
+                    "1": {
+                        "title": "Kumenya mbewu",
+                        "node_type": "leaf",
+                        "content": "Pomenya Soya, mutha kuyala saka pansi kapena kuika soya muthumba nkumenya ndi mtengo. Onesesani kuti; \n 1. Soya wauma mokwanila. \n 2. Pomenya onesesani ku mukumenya mosamala poti mbewu ikasweka siimelanso ngati mbewu. \n Mukamenya petani soyayo kuti muchose zinyalala."
+                    }, 
+                    "2": {
+                        "title": "Kugawa Soya",
+                        "node_type": "leaf",
+                        "content": "Gawani Soya wanu pochosa yense oonongeka ndi matenda, kusweka, ndipo chosani zinyalala zonse. \n Izi zimathandiza kuti mupeze mitengo yokwela pa msika"
+                    },
+                    "3": {
+                        "title": "Kusunga mbewu.",
+                        "node_type": "leaf",
+                        "content": "Mbewu mbewu yasoya onesesani kuti yauma mokwanila poti madzi ambiri mu mbewu ya soya yosunga imapangisa kuti mbewu iwonongeke mwachangu. Kuti muziwe ngati yauma moyenela satani izi; \n 1. Isamadindike ndi mano kapena chikhadabo."
+                    }, 
+                    "4": {
+                        "title": "Kupeza msika",
+                        "node_type": "leaf",
+                        "content": "loading"
+                    },
+                    "5": {
+                        "title": "Kupanga ufa wa Phala",
+                        "node_type": "leaf",
+                        "content": "loading"
+                    }
+                }
+            }
+        }
+    }
+}
