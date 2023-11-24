@@ -15,7 +15,7 @@ import inference_engine
     ---------------------
     load_node return list = (output, new_state, continue_flag)
     the continue_flag holds CON for decision nodes, END for leaf nodes
-    In production USSD platforms, Telcos requires this value appended for all USSD responses. As "END Error"
+    In production USSD platforms, Telecom USSDC requires this value appended for all USSD responses. As "END Error"
 """
 
 engine = inference_engine.InferenceEngine(knowledge_base='soya.json')
